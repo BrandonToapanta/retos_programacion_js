@@ -1,7 +1,9 @@
-// Dadas dos matrices ordenadas nums1y nums2de tamaño my nrespectivamente, 
+// Dadas dos matrices ordenadas nums1y nums2de tamaño m y 
+// n respectivamente, 
 // devuelve la mediana de las dos matrices ordenadas.
 
-// La complejidad general del tiempo de ejecución debería ser O(log (m+n)).
+// La complejidad general del tiempo de ejecución debería 
+// ser O(log (m+n)).
 
 var findMedianSortedArrays = function (nums1, nums2) {
     let numsTotal = []
